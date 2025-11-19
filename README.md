@@ -1,2 +1,2 @@
 # APEX
-librairy for big integer gesture .
+librairy for big integer management .
